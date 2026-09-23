@@ -18,7 +18,7 @@ This project uses OpenRouter to provide AI-powered chat functionality. Follow th
 2. Replace `your_openrouter_api_key_here` with your actual OpenRouter API key:
 
 ```env
-OPENROUTER_API_KEY=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
+OPENROUTER_API_KEY=sk-or-v1-your-key-here
 ```
 
 ### 3. Update Calendly URL (Optional)
